@@ -9,7 +9,7 @@ I'm a passionate learner and explorer in the world of software and blockchain.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Himess&layout=compact)
 
 ## 🌍 Let's Connect!
-- Twitter: [@himess_eth](https://twitter.com/himess_eth)
+- Twitter: [@Himess__](https://twitter.com/Himess__)
 - Discord: Himess#0001
 
 ---
