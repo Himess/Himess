@@ -1,8 +1,6 @@
 
 # Hi there, I'm Himess 👋
 
-I'm a passionate learner and explorer in the world of software and blockchain.
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Himess&show_icons=true&theme=default)
